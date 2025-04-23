@@ -1,70 +1,69 @@
-# Getting Started with Create React App
+# 👥 User Directory App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple and responsive React application that fetches and displays user information from an API.  
+Users can be searched by name, and all data is presented in a clean, table-based interface.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🚀 Live Demo
 
-### `npm start`
+🌐 [View on Vercel](https://your-vercel-app-url.vercel.app)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 📌 Features
 
-### `npm test`
+- ✅ **React Functional Components & Hooks**
+- 🔎 **Search Bar** to filter users by name
+- 🔄 **Loading Indicator** while data is being fetched
+- ❌ **Error Message** if the API call fails
+- 🧑‍💼 Display:
+  - Name
+  - Email
+  - Phone
+  - Company Name
+  - Website
+- 🎨 **Clean, Responsive UI** with basic CSS
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## 📦 Tech Stack
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+| Tech         | Description             |
+|--------------|-------------------------|
+| ⚛️ React     | UI Library              |
+| 🔗 Fetch API | To retrieve user data   |
+| 🎨 CSS       | Basic styling & layout  |
+| 🌐 Vercel    | Deployment platform     |
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🖥️ Screenshots
 
-### `npm run eject`
+> 💡 Add screenshots after you run and deploy the app  
+> You can use tools like [Snipboard](https://snipboard.io/) or GitHub uploads
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🛠️ Getting Started
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+1. **Clone the Repository**
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```bash
+git clone https://github.com/yourusername/user-directory-app.git
+cd user-directory-app
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+📁 Folder Structure
+src/
+├── components/
+│   ├── SearchBar.js
+│   └── UserList.js
+├── App.js
+├── App.css
+└── index.js
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+ 🧾 Submission
+📎 GitHub Repo: https://github.com/yourusername/user-directory-app
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+🌐 Vercel Link: https://your-vercel-app-url.vercel.app
