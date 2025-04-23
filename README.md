@@ -7,7 +7,7 @@ Users can be searched by name, and all data is presented in a clean, table-based
 
 ## 🚀 Live Demo
 
-🌐 [View on Vercel](https://your-vercel-app-url.vercel.app)
+🌐 [View on Vercel](https://ritvabuild-user-directory-app.vercel.app/)
 
 ---
 
@@ -50,7 +50,7 @@ Users can be searched by name, and all data is presented in a clean, table-based
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/user-directory-app.git
+git clone https://github.com/harikrishnajella/Ritvabuild-User-Directory-App
 cd user-directory-app
 
 
@@ -64,6 +64,6 @@ src/
 └── index.js
 
  🧾 Submission
-📎 GitHub Repo: https://github.com/yourusername/user-directory-app
+📎 GitHub Repo: https://github.com/harikrishnajella/Ritvabuild-User-Directory-App
 
-🌐 Vercel Link: https://your-vercel-app-url.vercel.app
+🌐 Vercel Link: https://ritvabuild-user-directory-app.vercel.app/
